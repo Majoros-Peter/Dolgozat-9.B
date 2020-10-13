@@ -1,0 +1,6 @@
+5. feladat: git clone https://github.com/Majoros-Peter/Dolgozat-9.B.git
+
+6. feladat: git config --global user.name "Majoros-Peter"
+            git config --global user.email majorospeterur@gmail.com
+
+8. feladat: git add utasítások.txt

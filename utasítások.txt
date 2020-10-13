@@ -1,0 +1,4 @@
+ - 
+ - git status
+ - git remove <fájl neve>
+ - git clone https://github.com/Majoros-Peter/Dolgozat-9.B.git
